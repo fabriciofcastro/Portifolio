@@ -9,4 +9,5 @@ O controle das tarefas será realizado no Github
 
 :oackege: novas funcionalidades
 :up: Atualizações Correções de bugs
+:beetle: correção de bug
 :checkered_flag: release
